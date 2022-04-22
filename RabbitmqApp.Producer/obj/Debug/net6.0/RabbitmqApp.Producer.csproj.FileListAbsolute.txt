@@ -1,0 +1,17 @@
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/bin/Debug/net6.0/RabbitmqApp.Producer
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/bin/Debug/net6.0/RabbitmqApp.Producer.deps.json
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/bin/Debug/net6.0/RabbitmqApp.Producer.runtimeconfig.json
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/bin/Debug/net6.0/RabbitmqApp.Producer.dll
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/bin/Debug/net6.0/ref/RabbitmqApp.Producer.dll
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/bin/Debug/net6.0/RabbitmqApp.Producer.pdb
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/obj/Debug/net6.0/RabbitmqApp.Producer.csproj.AssemblyReference.cache
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/obj/Debug/net6.0/RabbitmqApp.Producer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/obj/Debug/net6.0/RabbitmqApp.Producer.AssemblyInfoInputs.cache
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/obj/Debug/net6.0/RabbitmqApp.Producer.AssemblyInfo.cs
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/obj/Debug/net6.0/RabbitmqApp.Producer.csproj.CoreCompileInputs.cache
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/obj/Debug/net6.0/RabbitmqApp.Producer.dll
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/obj/Debug/net6.0/ref/RabbitmqApp.Producer.dll
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/obj/Debug/net6.0/RabbitmqApp.Producer.pdb
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/obj/Debug/net6.0/RabbitmqApp.Producer.genruntimeconfig.cache
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Producer/obj/Debug/net6.0/RabbitmqApp.Producer.csproj.CopyComplete

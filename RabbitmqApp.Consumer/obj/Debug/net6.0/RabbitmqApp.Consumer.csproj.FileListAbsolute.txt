@@ -1,0 +1,17 @@
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/bin/Debug/net6.0/RabbitmqApp.Consumer
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/bin/Debug/net6.0/RabbitmqApp.Consumer.deps.json
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/bin/Debug/net6.0/RabbitmqApp.Consumer.runtimeconfig.json
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/bin/Debug/net6.0/RabbitmqApp.Consumer.dll
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/bin/Debug/net6.0/ref/RabbitmqApp.Consumer.dll
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/bin/Debug/net6.0/RabbitmqApp.Consumer.pdb
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/bin/Debug/net6.0/RabbitMQ.Client.dll
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/obj/Debug/net6.0/RabbitmqApp.Consumer.csproj.AssemblyReference.cache
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/obj/Debug/net6.0/RabbitmqApp.Consumer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/obj/Debug/net6.0/RabbitmqApp.Consumer.AssemblyInfoInputs.cache
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/obj/Debug/net6.0/RabbitmqApp.Consumer.AssemblyInfo.cs
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/obj/Debug/net6.0/RabbitmqApp.Consumer.csproj.CoreCompileInputs.cache
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/obj/Debug/net6.0/RabbitmqApp.Consumer.csproj.CopyComplete
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/obj/Debug/net6.0/RabbitmqApp.Consumer.dll
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/obj/Debug/net6.0/ref/RabbitmqApp.Consumer.dll
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/obj/Debug/net6.0/RabbitmqApp.Consumer.pdb
+/Users/senoldinc/Projects/RabbitMqApp/RabbitmqApp.Consumer/obj/Debug/net6.0/RabbitmqApp.Consumer.genruntimeconfig.cache
